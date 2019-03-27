@@ -1,0 +1,2 @@
+var ok;
+alert(ok);
